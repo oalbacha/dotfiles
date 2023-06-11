@@ -59,7 +59,7 @@ echo "installing apps with brew --cask"
 # suspicious-package qlvideo spotify qmoji slack \
 # whatsapp expressvpn spectacle skitch \
 # imageOptim figma hiddenbar \
-# kap backblaze msword msexcel mspowerpoint raycast
+# kap backblaze microsoft-word microsoft-excel microsoft-powerpoint raycast
 
 # echo "Generating an RSA token for GitHub"
 # mkdir -p ~/.ssh
