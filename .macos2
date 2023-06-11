@@ -72,7 +72,7 @@ echo "installing apps with brew --cask"
 echo "making system modifications:"
 
 # Make Chrome Two finger swipe for back and forward
-defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool TRUE
+# defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool TRUE
 
 ###############################################################################
 # General UI/UX                                                               #
